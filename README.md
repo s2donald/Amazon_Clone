@@ -10,7 +10,7 @@ I have not configured this project for production, for the time being just view 
 
 ### Open two instances of the terminal
 
-For the first instance of the terminal, you must be in the root directory of the project which holds all of the files that have been cloned(Ex. Amazon_Clone).
+For the first instance of the terminal, you must be in the root directory of the project which holds all of the files that have been cloned (Ex. Amazon_Clone).
 Run the command "pip install -r requirements.txt" (Make sure you have pip installed), then run "python manage.py runserver"
 
 For the second instance of the terminal, change directories from the root directory into the "frontendreact" directory. 
