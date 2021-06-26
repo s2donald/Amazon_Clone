@@ -2,7 +2,7 @@
 This is a side project where the purpose is to build out a marketplace that looks like Amazon using ReactJS for the FrontEnd and Django for the Backend.
 
 
-#Getting started with this React X Django Application
+# Getting started with this React X Django Application
 
 ### Clone the repository into a directory on your local machine
 
